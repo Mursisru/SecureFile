@@ -1,0 +1,22 @@
+<Application x:Class="SecureFile.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <Application.Resources>
+    <ResourceDictionary>
+      <SolidColorBrush x:Key="ThemeBackground" Color="#0B1418"/>
+      <SolidColorBrush x:Key="ThemePanel" Color="#101E23"/>
+      <SolidColorBrush x:Key="ThemeSurface" Color="#152A30"/>
+      <SolidColorBrush x:Key="ThemeBorder" Color="#24424C"/>
+      <SolidColorBrush x:Key="ThemeText" Color="#E9F7FA"/>
+      <SolidColorBrush x:Key="ThemeMuted" Color="#8EA8AF"/>
+      <SolidColorBrush x:Key="ThemeAccent" Color="#22D3EE"/>
+      <SolidColorBrush x:Key="ThemeAccentSoft" Color="#3322D3EE"/>
+      <SolidColorBrush x:Key="ThemeOverlay" Color="#D9000000"/>
+      <SolidColorBrush x:Key="ThemeHover" Color="#1A3038"/>
+      <SolidColorBrush x:Key="ThemePressed" Color="#203B44"/>
+      <SolidColorBrush x:Key="ThemeOnAccent" Color="#0B1418"/>
+      <SolidColorBrush x:Key="ThemeSuccess" Color="#7BD88F"/>
+      <SolidColorBrush x:Key="ThemeError" Color="#FF6B6B"/>
+    </ResourceDictionary>
+  </Application.Resources>
+</Application>
